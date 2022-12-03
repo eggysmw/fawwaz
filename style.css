@@ -45,9 +45,16 @@ body {
 }
 .jumbotron  { 
     padding: 80px;
-    background-color: #2c9c9c;
+    background-image: url(fotogue.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
     
+}
+
+h1 {
+    color: #fff;
 }
 
 
